@@ -2,7 +2,7 @@
     "name": "47th0a - blocklist",
     "description": "https://github.com/47th0a/blocklist",
     "denied-remote-domains": [
-        download.parallels.com",
+        "download.parallels.com",
         "update.parallels.com",
         "desktop.parallels.com",
         "download.parallels.com.cdn.cloudflare.net",
