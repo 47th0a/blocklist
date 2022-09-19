@@ -1,0 +1,20 @@
+{
+    "name": "47th0a - blocklist",
+    "description": "https://github.com/47th0a/blocklist",
+    "denied-remote-domains": [
+        download.parallels.com",
+        "update.parallels.com",
+        "desktop.parallels.com",
+        "download.parallels.com.cdn.cloudflare.net",
+        "update.parallels.com.cdn.cloudflare.net",
+        "desktop.parallels.com.cdn.cloudflare.net",
+        "www.parallels.cn",
+        "www.parallels.com",
+        "reportus.parallels.com",
+        "parallels.com",
+        "parallels.cn",
+        "pax-manager.myparallels.com",
+        "myparallels.com",
+        "my.parallels.com"
+    ]
+}
