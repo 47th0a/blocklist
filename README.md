@@ -1,0 +1,2 @@
+# blocklist
+little snitch blocklist
