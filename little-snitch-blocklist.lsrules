@@ -4,7 +4,6 @@
     "denied-remote-domains": [
         "download.parallels.com",
         "update.parallels.com",
-        "desktop.parallels.com",
         "download.parallels.com.cdn.cloudflare.net",
         "update.parallels.com.cdn.cloudflare.net",
         "desktop.parallels.com.cdn.cloudflare.net",
